@@ -1,0 +1,10 @@
+.logo{
+    width: 40rem;
+}
+
+
+.contLanging{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

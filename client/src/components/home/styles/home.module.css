@@ -1,0 +1,14 @@
+.contHome{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    
+}
+
+.contHomeBody{
+    /* border: 2px solid red; */
+    width: 94%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
